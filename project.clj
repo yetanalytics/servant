@@ -1,4 +1,4 @@
-(defproject servant "0.1.6-SNAPSHOT"
+(defproject com.yetanalytics/servant "0.1.6-SNAPSHOT"
   :source-paths ["src/cljs"]
   :description "A Clojurescript Library for interacting with webworkers sanely"
   :url "https://github.com/MarcoPolo/Servant"
